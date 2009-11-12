@@ -1,0 +1,8 @@
+name = Product Dependencies
+description = Uses Node Reference to restrict products from being purchased based on dependencies.
+
+core = 6.x
+package = Ubercart - extra
+
+dependencies[] = uc_cart
+dependencies[] = nodereference
